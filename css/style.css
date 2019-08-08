@@ -1,0 +1,77 @@
+body {
+  background: #F4F3E5;
+  color: #1C120E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+}
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  font-stretch: expanded;
+  color: #1C120E;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+}
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+a{
+  text-decoration: none;
+  color: #1C120E;
+}
+a:hover {
+  text-decoration: none;
+  color: #D74C38;
+}
+
+.btn {
+  background-color: ;
+}
+
+
+#banner {
+  background-image: url("https://images.unsplash.com/photo-1554224870-e04ceab930db?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80");
+  text-align: center;
+  padding: 120px; 0;
+  background-size: 500px, 200px;
+  background-size: cover;
+
+
+}
+#banner h1 {
+  font size: 100px;
+  font-weight: 700;
+}
+#banner p {
+  color: #1C120E;
+  font-size: 20px;
+  font-weight: 500;
+  opacity: 0.95;
+  margin-bottom: 40px;
+
+
+}
+.windows {
+  padding: 50px;
+  text-align: center;
+}
+
+#footer  {
+  background: #DB995A;
+  color: #1C120E;
+  font-size: 14px;
+  padding: 15px;
+}
+
+#footer a {
+  color: #1C120E;
+  font-size: 25px
+}
+
+#footer a:hover {
+  color: #D74C38;
+}
+
